@@ -7,7 +7,7 @@
 
  
 <p> <ul>
- <li>It is a club under the global **Girl Up** community-based in **Ludhiana** that aims to conquer gender inequalities </li>
+ <li>It is a club under the global <b>Girl Up</b> community-based in <b>Ludhiana</b> that aims to conquer gender inequalities. </li>
   <li>By encouraging and enabling girls with adequate resources that initiate movements of change. </li>
 <li> We aim to bring our strengths together to support each other and all humans in our society and help them achieve their goals❤️</li>
 
