@@ -1,7 +1,11 @@
 # <a href='https://girlupludhiana.vercel.app/'>Girl-Up Ludhiana- Official Website<a>
 
-<p>I laid the foundation of the Girl Up Chapter in Ludhiana,🚀</p>
-<p> Hence providing a platform and guiding girls along their journey from leaders to changemakers 💫</p>
+<p> <ul>
+<li>I laid the foundation of the Girl Up Chapter in Ludhiana,🚀</li>
+</p>
+<p> 
+<li>Hence providing a platform and guiding girls along their journey from leaders to changemakers 💫 </li>
+</ul></p>
 
  ![1599513294116](https://user-images.githubusercontent.com/78272033/179208792-66c22573-075d-4b7f-a6df-9a095bd17431.jpg)
 
